@@ -1,0 +1,25 @@
+{
+  "name": "calorieserver",
+  "description": "none",
+  "main": "./bin/www",
+  "authors": [
+    "TobiasZhang <tobiasz2012@sina.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "calorieserver"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
